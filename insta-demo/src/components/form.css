@@ -1,0 +1,28 @@
+#form-container{
+    margin: auto;
+    margin-top: 50px;
+    width:500px;
+    min-height: 300px;
+    padding: 20px;
+    border: 2px solid gray;
+}
+
+input{
+    margin: 10px;
+    border: 2px solid black;
+}
+
+#post-btn{
+    margin-top: 50px;
+    width: 70px;
+    height: 40px;
+    border: 2px solid yellowgreen;
+    border-radius: 5px;
+    font-weight: bold;
+    background-color: yellow;
+    
+}
+
+#post-btn:hover{
+    background-color: green;
+}
